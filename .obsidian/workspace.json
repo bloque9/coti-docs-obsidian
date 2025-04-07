@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "3384b4738061ceb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "037e6f688a1ed114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "368412fd089d5f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bienvenidos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bienvenidos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12b4f4a497a15ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "64a63c9587f8b8a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edc42848fe315b5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d07e40b0f843753f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1eeefd647e0472bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb7d455288e3b723",
+    "type": "split",
+    "children": [
+      {
+        "id": "f41e6ad6cde355a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56ee28898f502f60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Primeros pasos/Agregando mi primer producto en Coti.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Agregando mi primer producto en Coti"
+            }
+          },
+          {
+            "id": "c86bf420dbefd75c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Primeros pasos/Agregando mi primer producto en Coti.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Agregando mi primer producto en Coti"
+            }
+          },
+          {
+            "id": "727f62f3a8a34f1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a5743c7f2aff9253",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Primeros pasos/Agregando mi primer producto en Coti.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Agregando mi primer producto en Coti"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "368412fd089d5f72",
+  "lastOpenFiles": [
+    "crail lighting - alta de usuario.md",
+    "attachments/coti_logo.svg",
+    "attachments/cliente_agregar.png",
+    "Bienvenidos.md",
+    "attachments/configuracion_estados_productos.png",
+    "attachments/productos_pestana_general.png",
+    "nota prueba.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Guias/Cómo agregar un usuario a tu empresa.md",
+    "Primeros pasos/Agregando productos en COTI.md",
+    "Primeros pasos/¿Cómo registrarse en COTI?.md",
+    "Primeros pasos/¿Cómo modificar sucursales?.md",
+    "Primeros pasos/¿Cómo modificar los datos de mi empresa en COTI?.md",
+    "Primeros pasos/¿Cómo cambiar la configuración de moneda en COTI?.md",
+    "Primeros pasos/¿Cómo agregar un cliente en COTI?.md",
+    "Primeros pasos/¿Cómo agregar impuestos en COTI?.md",
+    "Guias/Configuración de Telegram para recibir notificaciones de mis cotizaciones.md",
+    "Cómo funcionan/Cómo funcionan las suscripciones.md",
+    "attachments/cliente_atn.png",
+    "attachments/cotify_exitoSincronizacion.png",
+    "attachments/cotify_sincronizarBot.mp4",
+    "attachments/cotify_computadora_inicio.png",
+    "attachments/cotify_telegram_inicio_conversacion.jpg",
+    "attachments/cotify_telegram.png",
+    "cotify_telegramBot.png",
+    "Primeros pasos/Agregando mi primer producto en Coti.md",
+    "Guias/Tipos de Cotizaciones y Productos.md",
+    "Guias/Importar Clientes en Lote desde Excel.md",
+    "Guias/Personalizando el PDF.md",
+    "compresion de imagenes sin perdida.md"
+  ]
+}
