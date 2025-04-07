@@ -7,7 +7,7 @@ Muchas gracias por tu interés en Coti. Aquí encontrarás la documentación de 
 3. [[¿Cómo agregar impuestos en COTI?]] 
 4. [[¿Cómo agregar un cliente en COTI?]] 
 5. [[Agregando productos en COTI]]
-6. 
+6. Prueba
 
 ## Guías paso a paso
 [[Cómo agregar un usuario a tu empresa]]
