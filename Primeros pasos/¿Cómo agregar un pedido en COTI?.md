@@ -26,4 +26,4 @@
 > Al momento de ver tu pedido en la vista, puedes ver una sección de **Opciones** el cual contiene un boton **Editar** y se desplazará una lista de opciones como se lográ ver en la imagen.
 
 
-![[Pasted image 20250422134757.png]]
+![[opciones_pedidos_pestana.png]]
