@@ -8,8 +8,8 @@ Muchas gracias por tu interés en Coti. Aquí encontrarás la documentación de 
 4. [[¿Cómo agregar un cliente en COTI?]] 
 5. [[Agregando productos en COTI]]
 6. [[¿Cómo crear una empresa en COTI?]]
-7. [[¿Cómo modificar los datos de mi empresa en COTI_]]
-8. [[¿Cómo modificar sucursales_]]
+7. [[¿Cómo modificar los datos de mi empresa en COTI?]]
+8. [[¿Cómo modificar sucursales?]]
 
 ## Guías paso a paso
 [[Cómo agregar un usuario a tu empresa]]
