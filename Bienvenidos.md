@@ -3,13 +3,11 @@ Muchas gracias por tu interés en Coti. Aquí encontrarás la documentación de 
 ## Primeros pasos
 
 1. [[¿Cómo registrarse en COTI?]]
-2. [[¿Cómo cambiar la configuración de moneda en COTI?]]
-3. [[¿Cómo agregar impuestos en COTI?]] 
-4. [[¿Cómo agregar un cliente en COTI?]] 
-5. [[Agregando productos en COTI]]
-6. [[¿Cómo crear una empresa en COTI?]]
-7. [[¿Cómo modificar los datos de mi empresa en COTI?]]
-8. [[¿Cómo modificar sucursales?]]
+2. [[¿Cómo agregar impuestos en COTI?]] 
+3. [[¿Cómo agregar un cliente en COTI?]] 
+4. [[Agregando productos en COTI]]
+5. [[¿Cómo crear una empresa en COTI?]]
+6. [[¿Cómo agregar un pedido en COTI?]]
 
 ## Guías paso a paso
 [[Cómo agregar un usuario a tu empresa]]
@@ -19,8 +17,13 @@ Muchas gracias por tu interés en Coti. Aquí encontrarás la documentación de 
 [[Tipos de Cotizaciones y Productos]]
 
 ## Configuraciones
+[[¿Cómo modificar sucursales?]]
+[[¿Cómo modificar los datos de mi empresa en COTI?]]
+[[¿Cómo cambiar la configuración de moneda en COTI?]]
 
 ## Cómo funciona
+[[Cómo funcionan las suscripciones]]
+
 
 ## Otros 
 
