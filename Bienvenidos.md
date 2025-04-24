@@ -20,6 +20,10 @@ Muchas gracias por tu interés en Coti. Aquí encontrarás la documentación de 
 [[¿Cómo modificar sucursales?]]
 [[¿Cómo modificar los datos de mi empresa en COTI?]]
 [[¿Cómo cambiar la configuración de moneda en COTI?]]
+[[¿Cómo agregar una dirección?]]
+[[¿Cómo agregar una nueva categoría?]]
+[[¿Cómo agregar una nueva sucursal?]]
+
 
 ## Cómo funciona
 [[Cómo funcionan las suscripciones]]
