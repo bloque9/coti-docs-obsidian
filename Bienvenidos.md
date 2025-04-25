@@ -10,8 +10,8 @@ Muchas gracias por tu interés en Coti. Aquí encontrarás la documentación de 
 6. [[¿Cómo agregar un pedido en COTI?]]
 
 ## Guías paso a paso
-[[Cómo agregar un usuario a tu empresa]]
-[[Configuración de Telegram para recibir notificaciones de mis cotizaciones]]
+- [[Cómo agregar un usuario a tu empresa]]
+1. [[Configuración de Telegram para recibir notificaciones de mis cotizaciones]]
 [[Importar Clientes en Lote desde Excel]]
 [[Personalizando el PDF]]
 [[Tipos de Cotizaciones y Productos]]
@@ -23,6 +23,7 @@ Muchas gracias por tu interés en Coti. Aquí encontrarás la documentación de 
 [[¿Cómo agregar una dirección?]]
 [[¿Cómo agregar una nueva categoría?]]
 [[¿Cómo agregar una nueva sucursal?]]
+
 
 
 ## Cómo funciona
