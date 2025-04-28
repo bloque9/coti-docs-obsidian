@@ -23,7 +23,9 @@ Muchas gracias por tu interés en Coti. Aquí encontrarás la documentación de 
 [[¿Cómo agregar una dirección?]]
 [[¿Cómo agregar una nueva categoría?]]
 [[¿Cómo agregar una nueva sucursal?]]
-
+[[Agregar nuevos estados de cotización]]
+[[Agregar nuevos estados de pedidos]]
+[[Agregar nuevos estados de ordenes de compra]]
 
 
 ## Cómo funciona
