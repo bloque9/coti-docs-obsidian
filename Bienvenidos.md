@@ -8,6 +8,7 @@ Muchas gracias por tu interés en Coti. Aquí encontrarás la documentación de 
 4. [[Agregando productos en COTI]]
 5. [[¿Cómo crear una empresa en COTI?]]
 6. [[¿Cómo agregar un pedido en COTI?]]
+7. [[¿Cómo agregar un proveedor en COTI?]]
 
 ## Guías paso a paso
 [[Cómo agregar un usuario a tu empresa]]
@@ -27,10 +28,8 @@ Muchas gracias por tu interés en Coti. Aquí encontrarás la documentación de 
 [[Agregar nuevos estados de pedidos]]
 [[Agregar nuevos estados de ordenes de compra]]
 
-
 ## Cómo funciona
 [[Cómo funcionan las suscripciones]]
-
 
 ## Otros 
 
