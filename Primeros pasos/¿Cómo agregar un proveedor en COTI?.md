@@ -24,3 +24,8 @@
 7. En esta ventana puedes editar tu proveedor o agregarle una dirección dando clic al botón **Agregar Dirección**.
 
 8. ¡Felicidades! has concluido el apartado de ¿Como agregar un proveedor en COTI?
+
+
+## Notas
+
+- Si quieres ver como agregar un proveedor importando un excel visita [[Importar Proveedor en Lote desde Excel]]
