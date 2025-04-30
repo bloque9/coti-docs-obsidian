@@ -16,6 +16,7 @@ Muchas gracias por tu interés en Coti. Aquí encontrarás la documentación de 
 [[Importar Clientes en Lote desde Excel]]
 [[Personalizando el PDF]]
 [[Tipos de Cotizaciones y Productos]]
+[[Importar Proveedor en Lote desde Excel]]
 
 ## Configuraciones
 [[¿Cómo modificar sucursales?]]
