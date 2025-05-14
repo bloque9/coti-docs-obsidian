@@ -1,6 +1,6 @@
 
 
-1. Ingresa a  [Configuración][https://app.coti.mx/settings/] y busca en la lista general de opciones el apartado de [Direcciones][https://app.coti.mx/settings/address/]
+1. Ingresa a  [Configuración](https://app.coti.mx/settings/) y busca en la lista general de opciones el apartado de [Direcciones](https://app.coti.mx/settings/address/)
 
 
 2. Cuando te encuentres ahí da clic en el botón de **Nueva** para agregar una dirección

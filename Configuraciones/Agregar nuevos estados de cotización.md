@@ -1,6 +1,6 @@
 
 
-1. Ingresa a [Configuración][https://app.coti.mx/settings/] y después busca entre todas las opciones el apartado de [Estados de cotización][https://app.coti.mx/state/quote/] y verás algo como la siguiente imagen.
+1. Ingresa a [Configuración](https://app.coti.mx/settings/) y después busca entre todas las opciones el apartado de [Estados de cotización](https://app.coti.mx/state/quote/) y verás algo como la siguiente imagen.
    
 
 ![[estados_cotizacion_pestana.png]]

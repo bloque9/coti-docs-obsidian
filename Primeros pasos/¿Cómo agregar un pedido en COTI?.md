@@ -1,7 +1,6 @@
 
 
-1. Dirigete a [Pedidos][https://app.coti.mx/order/]
-
+1. Dirigete a [Pedidos](https://app.coti.mx/order/)
 
 2. Una vez que te encuentres ahí da clic al botón de **Nuevo Pedido**
 
@@ -18,7 +17,7 @@
 5. Si todo resulta bien verás una pequeña ventanita verde en la esquina superior derecha, de lo contrario será de color rojo con algun mensaje de error.
 
 
-6. Perfecto! has creado un pedido, regresa nuevamente al apartado de [Pedidos][https://app.coti.mx/order/] para poder ver tu pedido agregado.
+6. Perfecto! has creado un pedido, regresa nuevamente al apartado de [Pedidos](https://app.coti.mx/order/) para poder ver tu pedido agregado.
 
 
 

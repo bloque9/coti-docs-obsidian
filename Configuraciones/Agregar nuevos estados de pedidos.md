@@ -1,5 +1,5 @@
 
-1. Ingresa a [Configuración][https://app.coti.mx/settings/] y después busca entre todas las opciones el apartado de [Estados de pedidos][https://app.coti.mx/state/order/] y verás algo como la siguiente imagen.
+1. Ingresa a [Configuración](https://app.coti.mx/settings/) y después busca entre todas las opciones el apartado de [Estados de pedidos](https://app.coti.mx/state/order/) y verás algo como la siguiente imagen.
 
 ![[estados_pedidos_pestana.png]]
 

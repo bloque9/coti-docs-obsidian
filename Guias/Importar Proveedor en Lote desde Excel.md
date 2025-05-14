@@ -1,5 +1,5 @@
 
-1. Dirígete al apartado de [Proveedores][https://app.coti.mx/supplier/] y verás una ventana como la siguiente imagen.
+1. Dirígete al apartado de [Proveedores](https://app.coti.mx/supplier/) y verás una ventana como la siguiente imagen.
 
 ![[agregar_proveedor_excel.png]]
 

@@ -1,5 +1,5 @@
 
-1. Dirígete a [Productos][https://app.coti.mx/productos/] y da clic en el botón **Cambio Rapido** y verás la siguiente ventana
+1. Dirígete a [Productos](https://app.coti.mx/productos/) y da clic en el botón **Cambio Rapido** y verás la siguiente ventana
 
 
 ![[cambiar_imagen_productos_pestana.png]]

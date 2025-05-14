@@ -1,5 +1,5 @@
 
-1. Ingresa a [Proveedores][https://app.coti.mx/supplier/] y verás algo como la siguiente imagen.
+1. Ingresa a [Proveedores](https://app.coti.mx/supplier/) y verás algo como la siguiente imagen.
 
 
 ![[proveedores_pestana_principal.png]]

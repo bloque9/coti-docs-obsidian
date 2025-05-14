@@ -1,5 +1,5 @@
 
-1. Ingresa a [Configuración][https://app.coti.mx/settings/] y busca la parte de [Sucursales][https://app.coti.mx/sucursal/] 
+1. Ingresa a [Configuración](https://app.coti.mx/settings/) y busca la parte de [Sucursales](https://app.coti.mx/sucursal/) 
 
 
 2. Cuando estes adentro de la vista, verás algo como esto

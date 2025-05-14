@@ -1,5 +1,5 @@
 
-1. Dirígete a [Productos][https://app.coti.mx/productos/] y da clic en el botón **Importador** y verás la siguiente ventana.
+1. Dirígete a [Productos](https://app.coti.mx/productos/) y da clic en el botón **Importador** y verás la siguiente ventana.
 
 ![[importar_producto_pestana.png]]
 

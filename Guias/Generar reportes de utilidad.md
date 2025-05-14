@@ -1,5 +1,5 @@
 
-1. Dirígete a [Reportes][https://app.coti.mx/report/] y verás la siguiente vista
+1. Dirígete a [Reportes](https://app.coti.mx/report/) y verás la siguiente vista
 
 
 ![[reportes_pestana.png]]

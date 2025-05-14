@@ -1,6 +1,6 @@
 
 
-1. Ingresa a [Configuración][https://app.coti.mx/settings/] y busca en el apartado de opciones el link de [Categorías][https://app.coti.mx/categoria/] verás algo como el siguiente ejemplo
+1. Ingresa a [Configuración](https://app.coti.mx/settings/) y busca en el apartado de opciones el link de [Categorías](https://app.coti.mx/categoria/) verás algo como el siguiente ejemplo
 
 
 ![[nueva_categoria_pestana.png]]
