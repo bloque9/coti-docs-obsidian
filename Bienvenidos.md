@@ -33,4 +33,14 @@ Muchas gracias por tu interés en Coti. Aquí encontrarás la documentación de 
 [[Cómo funcionan las suscripciones]]
 
 ## Otros 
-
+### Opciones de cotización
+[[¿Cómo asignar mi cotización a un usuario?]]
+[[¿Cómo comparto mi cotización?]]
+[[¿Cómo convierto mi cotizacion en Excel?]]
+[[¿Cómo convierto mi cotización en PDF?]]
+[[¿Cómo convierto mi cotización en pedido?]]
+[[¿Cómo duplicar mi cotización?]]
+[[¿Cómo elimino una cotización?]]
+[[¿Cómo realizo la compra de mi cotización?]]
+[[¿Cómo veo los costos de mi cotización?]]
+[[¿Dónde veo los datos de mi cotización?]]
